@@ -18,3 +18,4 @@ Below is a list of all KIPs, both past and present:
 ## Contact
 
 For general inquiries or to discuss KIPs outside of this repository, please reach out to us on our [Discord](https://discord.com/invite/p99hk4actg) or [Twitter](https://x.com/kodohq).
+
